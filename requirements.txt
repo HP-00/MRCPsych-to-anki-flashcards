@@ -1,0 +1,20 @@
+# MRCPsych-to-Anki Flashcards
+# ============================
+#
+# This project uses Python standard library only.
+# No external packages are required.
+#
+# Python 3.8+ is required.
+#
+# The following standard library modules are used:
+# - json (API communication)
+# - urllib (HTTP requests)
+# - base64 (media file encoding)
+# - re (validation patterns)
+# - pathlib (file path handling)
+# - typing (type hints)
+#
+# External Requirements:
+# - Anki (https://apps.ankiweb.net/)
+# - AnkiConnect add-on (code: 2055492159)
+# - Claude Code CLI (https://github.com/anthropics/claude-code)
