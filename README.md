@@ -559,8 +559,7 @@ python3 scripts/validate_flashcard.py  # Tests validation
 ### MRCPsych Exam Information
 
 - [Royal College of Psychiatrists - Exams](https://www.rcpsych.ac.uk/training/exams)
-- [MRCPsych Paper A Syllabus](https://www.rcpsych.ac.uk/training/exams/mrcpsych-written-exams)
-- [MRCPsych Paper B Syllabus](https://www.rcpsych.ac.uk/training/exams/mrcpsych-written-exams)
+- [MRCPsych Paper A & B - Preparing for Exams](https://www.rcpsych.ac.uk/training/exams/preparing-for-exams)
 
 ### Question Banks
 
@@ -576,7 +575,7 @@ python3 scripts/validate_flashcard.py  # Tests validation
 ### Claude Code
 
 - [Claude Code GitHub](https://github.com/anthropics/claude-code)
-- [Claude Code Documentation](https://docs.anthropic.com/claude-code)
+- [Claude Code Documentation](https://code.claude.com/docs)
 
 ---
 

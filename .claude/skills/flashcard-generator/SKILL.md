@@ -63,8 +63,8 @@ Back: SSRI antidepressant (e.g., sertraline, fluoxetine)
 
 ### Cloze Deletion
 ```
-Text: The first-line treatment for GAD is {{c1::SSRI}} or {{c2::SNRI}}, with {{c3::pregabalin}} as an alternative
-Extra: Per NICE CG113. CBT also effective as first-line.
+Text: NICE recommends {{c1::SSRI (sertraline)}} as first-line for GAD, {{c2::SNRI}} as second-line, and {{c3::pregabalin}} if SSRIs/SNRIs not tolerated
+Extra: Per NICE CG113. Pregabalin is third-line, not an equal alternative. CBT also effective.
 ```
 
 ### Mechanism Card
